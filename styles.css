@@ -7,6 +7,8 @@ body {
 }
 
 .heading {
+    max-width: 50%;
+    margin: auto;
     font-size: 2em;
     color: var(--primary-color);
 }
@@ -24,7 +26,8 @@ body {
 }
 
 .button {
-    padding: 0.5em 2.5em;
+    max-width: 50%;
+    padding: 0.5em 1em;
     border: none;
     border-radius: 0.5em;
     background-color: var(--primary-color);
