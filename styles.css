@@ -7,19 +7,19 @@ body {
 }
 
 .heading {
-    font-size: 5em;
+    font-size: 3em;
     color: var(--primary-color);
 }
 
 .your-word-text {
-    margin: 3em auto 0;
+    margin: 2em auto 0;
     font-size: 1em;
     color: #fff;
 }
 
 .word {
     margin: 0 auto 1.3em;
-    font-size: 3.5em;
+    font-size: 2em;
     color: #fff;
 }
 
@@ -35,7 +35,7 @@ body {
 
 .previous-word {
     margin: 2.5em auto 0;
-    max-width: 70%;
+    max-width: 50%;
     font-size: 1em;
     color: #fff;
     font-weight: 600;
